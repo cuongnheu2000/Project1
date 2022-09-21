@@ -8,7 +8,5 @@
 
 ## II. Visualization data
 
-![tên ảnh](https://drive.google.com/file/d/1ywR0gYIgK9h3GnWcnfeNan010KFZinF-/view?usp=sharing)
-![tên ảnh](https://drive.google.com/file/d/1sWqp1jMwgJ1IfuNKbGv18EC6oG-JJ-eD/view?usp=sharing)
-![tên ảnh](https://drive.google.com/file/d/1pKhDUFf7GIUUvcs6bHKTV0_dE8gZhYA1/view?usp=sharing)
-![tên ảnh](https://drive.google.com/file/d/1RK8SPXEopJz8lE2cqCBHf3IT3hbF2z1o/view?usp=sharing)
+### Link hình ảnh demo 
+[Click vào đây để xem](https://drive.google.com/drive/folders/1CueoXWx_dSQUEy_p45iG2gucsfZtv_ov?usp=sharing)
